@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Karolina
+- 👀 I’m interested in technical writing, UX writing, F1, and music
+- 🌱 I’m currently learning how to document API's
+- 📫 Reach me via email: krmotwicka@gmail.com
